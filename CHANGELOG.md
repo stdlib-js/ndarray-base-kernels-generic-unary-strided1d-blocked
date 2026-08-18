@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`0a1ac14`](https://github.com/stdlib-js/stdlib/commit/0a1ac149bcab7145a35d961a27e33fa0ba601182) - **docs:** fix descriptions and update spellings _(by Athan Reines)_
 -   [`315c552`](https://github.com/stdlib-js/stdlib/commit/315c55284242de757dcb04684708f808cadcbb03) - **docs:** update examples _(by Athan Reines)_
 -   [`6ba7e59`](https://github.com/stdlib-js/stdlib/commit/6ba7e5910d85debbb0dd39ea8cfdaf8c458ffe4d) - **fix:** address off-by-one bug [(#14352)](https://github.com/stdlib-js/stdlib/pull/14352) _(by Philipp Burckhardt)_
 -   [`0f459b6`](https://github.com/stdlib-js/stdlib/commit/0f459b6e5188aee3701259e63d793bef371ab41c) - **feat:** add `ndarray/base/kernels/generic/unary-strided1d/blocked` _(by Athan Reines)_
