@@ -47,6 +47,7 @@
   "devDependencies": {
     "@stdlib/array-float64": "^0.2.3",
     "@stdlib/blas-ext-base-ndarray-gcusum": "^0.1.1",
+    "@stdlib/ndarray-base-kernels-generic-unary-strided1d-strategy": "github:stdlib-js/ndarray-base-kernels-generic-unary-strided1d-strategy#main",
     "@stdlib/ndarray-base-to-array": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
