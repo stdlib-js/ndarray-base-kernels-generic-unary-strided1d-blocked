@@ -42,7 +42,8 @@
     "@stdlib/ndarray-base-offsets": "github:stdlib-js/ndarray-base-offsets#main",
     "@stdlib/ndarray-base-set-descriptor-offsets": "github:stdlib-js/ndarray-base-set-descriptor-offsets#main",
     "@stdlib/ndarray-base-unary-loop-interchange-order": "^0.3.1",
-    "@stdlib/ndarray-base-unary-tiling-block-size": "^0.2.3"
+    "@stdlib/ndarray-base-unary-tiling-block-size": "^0.2.3",
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-float64": "^0.2.3",
