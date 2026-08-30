@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-25)
+## Unreleased (2026-08-30)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`3204ab8`](https://github.com/stdlib-js/stdlib/commit/3204ab81d60dfd78a502332789aa9b0ecba885ba) - **docs:** fix signatures _(by Athan Reines)_
 -   [`0282793`](https://github.com/stdlib-js/stdlib/commit/0282793a6bb7d1c5ef415b12a244cd195a6b4c93) - **test:** rename variable _(by Athan Reines)_
 -   [`f9d7e87`](https://github.com/stdlib-js/stdlib/commit/f9d7e877336831440a5f7730b75825535f55e637) - **feat:** export individual kernels _(by Athan Reines)_
 -   [`0a1ac14`](https://github.com/stdlib-js/stdlib/commit/0a1ac149bcab7145a35d961a27e33fa0ba601182) - **docs:** fix descriptions and update spellings _(by Athan Reines)_
